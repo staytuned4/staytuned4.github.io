@@ -3,7 +3,7 @@ layout: default
 ---
 # Links
 
-
+[email icon jekkyll site](https://r3bl.blog/en/simple-social-media-links-jekyll/)
 ## HTML / CSS / JAVASCRIPT
 [w3schools.com](https://www.w3schools.com) |
 [pierre-giraud](https://www.pierre-giraud.com) |

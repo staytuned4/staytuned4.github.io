@@ -5,7 +5,7 @@ layout: default
 
 
 ## HTML / CSS / JAVASCRIPT
-[w3schools.com](https://www.w3schools.com)
+[w3schools.com](https://www.w3schools.com) |
 [pierre-giraud](https://www.pierre-giraud.com) |
 [nodejs](https://nodejs.org) |
 [electronjs](https://electronjs.org/docs) |

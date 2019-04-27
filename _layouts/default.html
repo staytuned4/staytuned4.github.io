@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 <!--favicon-->
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -24,7 +24,7 @@
     <header>
       <div class="container">
         <section>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <h1>{{ site.title | default: site.github.repository_name}}</h1>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
    <!--     <section id="downloads">
@@ -51,6 +51,7 @@
     <div class="container">
       <section id="main_content">
         {{ content }}
+	{% include footer.html %}
       </section>
 	</div>
     {% if site.google_analytics %}

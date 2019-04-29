@@ -16,7 +16,7 @@ ifconfig
 ```
 (l'IP ne reste pas)
 
-> ds unix, 1 configuration = 1 fichier texte
+{% include tip.html content="ds unix, 1 configuration = 1 fichier texte" %}
 
 # Allumer interface réseau
 ```

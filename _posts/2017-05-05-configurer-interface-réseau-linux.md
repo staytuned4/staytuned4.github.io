@@ -3,8 +3,8 @@ layout: post
 tags: [ifconfig, dhcp, ip fix, ]
 ---
 
-## Ifconfig
-### stocke IP dans la RAM et non en dur
+# Ifconfig
+## stocke IP dans la RAM et non en dur
 ```
 /sbin/Ifconfig eth0 192.168.10.1
 ifconfig
@@ -18,12 +18,12 @@ ifconfig
 
 > ds unix, 1 configuration = 1 fichier texte
 
-## Allumer interface réseau
+# Allumer interface réseau
 ```
 ifup eth0
 ```
 
-## DHCP
+# DHCP
 
 (serveur qui distribue les adresses IP)
 
@@ -38,7 +38,7 @@ auto lo
 iface lo inet loopback
 ```
 
-## Ajouter – autoactivation de la carte réseau
+# Ajouter – autoactivation de la carte réseau
 ```
 auto eth0
 iface eth0 inet dhcp
@@ -51,7 +51,7 @@ ifconfig
 ```
 (IP fixe)
 
-## Enlever dhcp par static
+# Enlever dhcp par static
 
 ```
 nano /etc/network/interfaces

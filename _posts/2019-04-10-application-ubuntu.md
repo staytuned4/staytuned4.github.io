@@ -9,4 +9,5 @@ Electron /
 mpsyt /
 mpv /
 GParted /
+HTTrack /
 

@@ -2,9 +2,9 @@
 layout: default
 ---
 # Links
-
+[https://r3bl.me](https://r3bl.me)
 [email icon jekkyll site](https://r3bl.blog/en/simple-social-media-links-jekyll/)
-## HTML / CSS / JAVASCRIPT
+# HTML / CSS / JAVASCRIPT
 [w3schools.com](https://www.w3schools.com) |
 [pierre-giraud](https://www.pierre-giraud.com) |
 [nodejs](https://nodejs.org) |
@@ -14,21 +14,26 @@ layout: default
 [pexels](https://pexels.com) |
 [templated](https://templated.co) |
 [formspree](https://formspree.io/) |
+[htmlreference.io/](https://htmlreference.io/) |
 
-## Jekyll
+# Jekyll
 [learn.cloudcannon.com/jekyll/photo-gallery/](https://learn.cloudcannon.com/jekyll/photo-gallery/)
 
-## Retouche d'image / Gimp / Photoshop
+# Retouche d'image / Gimp / Photoshop
 [formation-logiciel-libre.com/rendre-transparent-fond-image/](http://formation-logiciel-libre.com/gimp-rendre-transparent-le-fond-uni-dune-image/) |
 [styling images](https://www.w3schools.com/css/css3_images.asp)
 
-## Réseau / security
+# Network / security
 [papy-tux.legtux.org](http://papy-tux.legtux.org/doc1055/index.html#mozTocId798963) |
 [haveibeenpwned.com](https://haveibeenpwned.com) |
 [kali.org](https://www.kali.org) |
+[ipleak.net](https://ipleak.net/) |
 
-## Help / Community
+# Help / Community
 [github.community](https://github.community/) |
 
-## ssh
+# ssh
 [blog.robertelder.org/what-is-ssh/](http://blog.robertelder.org/what-is-ssh/) |
+
+# wine
+[http://tipsonubuntu.com/2019/02/01/install-wine-4-0-ubuntu-18-10-16-04-14-04/](http://tipsonubuntu.com/2019/02/01/install-wine-4-0-ubuntu-18-10-16-04-14-04/)

@@ -1,8 +1,6 @@
-- name: Home
-  link: /
-- name: Posts
+- name: Blog
   link: /blog.html
 - name: Links
   link: /links.html
-- name: Réseau
-  link: /ip.html
+- name: Network
+  link: /network.html

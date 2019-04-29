@@ -254,7 +254,7 @@ a {
 
 /*added by me staytuned.one in green*/
 
-a.title:link, a.title:visited, a.title:active 
+a.title:link, a.title:visited, a.title:active
 {
     display: inline;
     color: #B5E853;
@@ -262,5 +262,40 @@ a.title:link, a.title:visited, a.title:active
     margin: 0px;
     text-decoration: none;
 }
+/*end*/
 
-/*end of adding*/
+/*added by me red rectangle warning.html*/
+
+.warning {
+   border: 1px solid #fc4e0e;
+   padding: 5px;
+   margin: 0 0 20px;
+}
+/*end*/
+
+/*added by me green rectangle tip.html*/
+
+.tip {
+   border: 1px solid #0efc25;
+   padding: 5px;
+   margin: 0 0 20px;
+}
+/*end*/
+
+/*added by me blue rectangle note.html*/
+
+.note {
+   border: 1px solid #1377ec;
+   padding: 5px;
+   margin: 0 0 20px;
+}
+/*end*/
+
+/*added by me orange rectangle important.html*/
+
+.important {
+   border: 1px solid #ecc313;
+   padding: 5px;
+   margin: 0 0 20px;
+}
+/*end*/

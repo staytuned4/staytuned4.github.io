@@ -10,3 +10,8 @@ plugins:
 github_username: staytuned4
 email: staytuned4@tutanota.de
 
+paginate: 7
+paginate_path: "/blog/:num/"
+
+
+

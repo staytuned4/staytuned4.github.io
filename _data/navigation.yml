@@ -1,5 +1,5 @@
-- name: Blog
-  link: /blog.html
+- name: Posts
+  link: /blog/index.html
 - name: Links
   link: /links.html
 - name: Network

@@ -14,13 +14,16 @@ layout: default
 [pexels](https://pexels.com) |
 [templated](https://templated.co) |
 [formspree](https://formspree.io/) |
-[htmlreference.io/](https://htmlreference.io/) |
+[htmlreference.io](https://htmlreference.io/) |
+[fontawesome.com](https://fontawesome.com/) |
+[specificity.CSS.calculator](https://specificity.keegan.st/) |
+[travis-ci.org](https://travis-ci.org/)/[pagination](https://talk.jekyllrb.com/t/use-of-pagination-on-collections-hosted-on-github-pages/38/3)
 
 # Jekyll
 [learn.cloudcannon.com/jekyll/photo-gallery/](https://learn.cloudcannon.com/jekyll/photo-gallery/)
 
 # Retouche d'image / Gimp / Photoshop
-[formation-logiciel-libre.com/rendre-transparent-fond-image/](http://formation-logiciel-libre.com/gimp-rendre-transparent-le-fond-uni-dune-image/) |
+[formation-logiciel-libre.com/rendre-transparent-fond-image](http://formation-logiciel-libre.com/gimp-rendre-transparent-le-fond-uni-dune-image/) |
 [styling images](https://www.w3schools.com/css/css3_images.asp)
 
 # Network / security
@@ -33,7 +36,7 @@ layout: default
 [github.community](https://github.community/) |
 
 # ssh
-[blog.robertelder.org/what-is-ssh/](http://blog.robertelder.org/what-is-ssh/) |
+[blog.robertelder.org/what-is-ssh](http://blog.robertelder.org/what-is-ssh/) |
 
 # wine
-[http://tipsonubuntu.com/2019/02/01/install-wine-4-0-ubuntu-18-10-16-04-14-04/](http://tipsonubuntu.com/2019/02/01/install-wine-4-0-ubuntu-18-10-16-04-14-04/)
+[http://tipsonubuntu.com/2019/02/01/install-wine-4-0-ubuntu-18-10-16-04-14-04](http://tipsonubuntu.com/2019/02/01/install-wine-4-0-ubuntu-18-10-16-04-14-04/)

@@ -252,7 +252,7 @@ a {
   zoom:1;
 }
 
-/*added by me staytuned.one in green*/
+/*me staytuned.one in green*/
 
 a.title:link, a.title:visited, a.title:active
 {
@@ -262,47 +262,52 @@ a.title:link, a.title:visited, a.title:active
     margin: 0px;
     text-decoration: none;
 }
-/*end*/
 
-/*added by me red rectangle warning.html*/
+/*me red rectangle warning.html*/
 
 .warning {
    border: 1px solid #fc4e0e;
    padding: 5px;
    margin: 0 0 20px;
 }
-/*end*/
 
-/*added by me green rectangle tip.html*/
+/*me green rectangle tip.html*/
 
 .tip {
    border: 1px solid #0efc25;
    padding: 5px;
    margin: 0 0 20px;
 }
-/*end*/
 
-/*added by me blue rectangle note.html*/
+/*me blue rectangle note.html*/
 
 .note {
    border: 1px solid #1377ec;
    padding: 5px;
    margin: 0 0 20px;
 }
-/*end*/
 
-/*added by me orange rectangle important.html*/
+/*me orange rectangle important.html*/
 
 .important {
    border: 1px solid #ecc313;
    padding: 5px;
    margin: 0 0 20px;
 }
-/*end*/
 
-/*center button pagination posts + contact footer*/
+/*me center button pagination posts*/
 .pagination {
   text-align: center;
-}
-/*end*/
 
+}
+
+/*me contact footer*/
+.contact-footer {
+	text-align: center;
+   	margin: 10px 0 0;	
+}
+
+/* me back button post*/
+#back-button {
+	   margin: 15px ;
+}

@@ -1,12 +1,21 @@
-<hr></hr>
+<hr>
+
+<div class="pagination">
 {% if site.github_username %}
     <a href="https://github.com/{{ site.github_username }}" class="btn">
-      <i class="fa fa-github"></i> GitHub
-    </a>
+      <i class="fa fa-github"></i></a>
 {% endif %}
 
 {% if site.email %}
     <a href="mailto:{{ site.email }}" class="btn">
-      <i class="fa fa-envelope"></i> email
-    </a>
+      <i class="fa fa-envelope"></i></a>
 {% endif %}
+
+{% if site.email %}
+    <a href="" class="btn">
+      <i class="fa fa-rss"></i></a>
+{% endif %}
+
+<p>ST - 2019</p>
+
+</div>

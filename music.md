@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
+<div class="video-container">
 <iframe width="879" height="586" src="https://www.youtube.com/embed/vtZ1mH95T5s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</div>
 <details>
 	<summary>
 		Lyrics: Lost in love - Legend B

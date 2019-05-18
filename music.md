@@ -21,9 +21,9 @@ We play together<br>
 </details>
 
 <hr>
-
+<div class="video-container">
 <iframe width="779" height="584" src="https://www.youtube.com/embed/cepV5f2-MaU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</div>
 <details>
 	<summary>
 		Lyrics: baby snakes - Zappa

@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-<div class="video-container">
-<iframe width="879" height="586" src="https://www.youtube.com/embed/vtZ1mH95T5s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=vtZ1mH95T5s"><img src="https://img.youtube.com/vi/vtZ1mH95T5s/0.jpg" alt="IMAGE ALT TEXT"></a>
 </div>
 <details>
 	<summary>
@@ -22,9 +22,10 @@ We play together<br>
 </details>
 
 <hr>
-<div class="video-container">
-<iframe width="601" height="451" src="https://www.youtube.com/embed/XFkzRNyygfk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=XFkzRNyygfk"><img src="https://img.youtube.com/vi/XFkzRNyygfk/0.jpg" alt="IMAGE ALT TEXT"></a>
 </div>
+
 <details>
 	<summary>
 		Lyrics: Creep - Radiohead
@@ -68,7 +69,7 @@ I don't belong here.<br>
 
 
 <hr>
-<div class="video-container">
-<iframe width="1334" height="750" src="https://www.youtube.com/embed/ulMW67iiKfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=ulMW67iiKfQ"><img src="https://img.youtube.com/vi/ulMW67iiKfQ/0.jpg" alt="IMAGE ALT TEXT"></a>
 </div>
 

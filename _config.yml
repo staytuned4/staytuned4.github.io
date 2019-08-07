@@ -1,4 +1,4 @@
-title: staytuned.one
+title: SB93.FR
 description: Posts Reminder Ubuntu
 show_downloads: true
 google_analytics:
@@ -12,6 +12,7 @@ email: staytuned4@tutanota.de
 
 paginate: 7
 paginate_path: "/blog/:num/"
+
 
 
 

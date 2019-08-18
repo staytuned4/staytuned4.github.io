@@ -1,8 +1,8 @@
 - name: Posts
   link: /blog/index.html
+- name: Photo
+  link: https://staytuned4.github.io/damier
+- name: About
+  link: /about.html
 - name: Links
   link: /links.html
-- name: Network
-  link: /network.html
-- name: Music
-  link: /music.html

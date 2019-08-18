@@ -8,7 +8,7 @@ plugins:
  - jekyll-seo-tag
 
 github_username: staytuned4
-email: staytuned4@tutanota.de
+email: sebb@tutanota.de
 
 paginate: 7
 paginate_path: "/blog/:num/"

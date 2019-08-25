@@ -6,7 +6,7 @@ layout: default
 
 Très vite j'ai également eu envie de partager d'autres contenus web, musiques, vidéo, ce que je trouve de sympa et dont je veux garder le souvenir ou le partager avec les visiteurs de ce blog.
 
-Un onglet "Photo" où j'expose quelques une de mes photographies. Les nouvelles seront ajoutées en tête de liste.
+Un onglet "Photo" où j'expose quelques unes de mes photographies. Les nouvelles seront ajoutées en tête de liste.
 
 Enfin, ce blog a pour base le thème "Hacker", que j'ai légèrement modifié.
 J'ai choisi de réaliser ce blog en statique pour la vitesse de chargement (client) des pages, la simplicité de maintenance et le format Markdown pour les posts pour des raisons de simplicité d'utilisation et de mise en oeuvre.

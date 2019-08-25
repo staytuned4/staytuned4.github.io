@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-À chaque fois que je réinstalle mon OS (Ubuntu), ce qui arrive de temps en temps, je dois réinstaller mes applications favorites. Pour me souvenir de la marche à suivre, j'ai décidé de créer ce blogue afin que la manoeuvre soit plus simple, plus rapide et excent au maximum de mauvaise manipulation lors de l'installation.
+À chaque fois que je réinstalle mon OS (Ubuntu), ce qui arrive de temps en temps, je dois réinstaller mes applications favorites. Pour me souvenir de la marche à suivre, j'ai décidé de créer ce blogue afin que la manoeuvre soit plus simple, plus rapide et exempt au maximum de mauvaise manipulation lors de l'installation.
 "Posts Reminder Ubuntu" est donc la raison d'être de ce blog.
 
 Très vite j'ai également eu envie de partager d'autre contenu web, musiques, vidéo, ce que je trouve de sympa et dont je veux garder le souvenir ou le partager avec les visiteurs de ce blog.

@@ -11,16 +11,6 @@ Un onglet "Photo" où j'expose quelques une de mes photographies. Les nouvelles 
 Enfin, ce blog a pour base le thème "Hacker", que j'ai légèrement modifié.
 J'ai choisi de réaliser ce blog en statique pour la vitesse de chargement (client) des pages, la simplicité de maintenance et le format Markdown pour les posts pour des raisons de simplicité d'utilisation et de mise en oeuvre.
 
-Ce blog est amené à étre amélioré selon mes connaissances, mes envies. J'aimerais ajouté la possibilité de rechercher par mot clé un contenu, améliorer la pagination, le look.
+Ce blog est amené à étre amélioré selon mes connaissances, mes envies. J'aimerais ajouté la possibilité de rechercher par mot clé un contenu, améliorer la pagination.
 
 Pour toute suggestion ou correction de contenu, vous pouvez me contacter par [e-mail](mailto:staytuned4@tutanota.de).
-
-## Infos du blog :
-
-Nom de domaine : [staytuned.one](https://staytuned.one)
-
-Héberger chez github : [github.com](https://github.com/)
-
-Language : Français (certains posts sont en Anglais)
-
-Analyse d'audience : Google analitics (à venir)

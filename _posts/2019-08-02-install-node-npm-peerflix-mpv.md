@@ -1,7 +1,9 @@
 ---
 layout: post
-tags: [electron, html, ,css, javascript,jekyll,flexbox, grid, custom properties]
+tag: [nodejs, npm, install, installation, peerflix, mpv]
 ---
+tags: [electron, html, ,css, javascript,jekyll,flexbox, grid, custom properties]
+
 
 # ELECTRON (développer des applications web en HTML, CSS, JS) – Fully Responsive
 

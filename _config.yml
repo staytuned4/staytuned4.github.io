@@ -13,6 +13,6 @@ email: sebb@tutanota.de
 paginate: 7
 paginate_path: "/blog/:num/"
 
-
+google_analytics: [staytuned4]
 
 

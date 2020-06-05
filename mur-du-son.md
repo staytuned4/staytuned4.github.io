@@ -1,11 +1,8 @@
 ---
 layout: default
-tags: [, ]
+tags: [Drink to get drunk
+, Sia, different gear, ]
 ---
-https://www.youtube.com/watch?v=vRvGQr54z38
+# Drink to get drunk
 
-
-
-# Help / Community
-[github.community](https://github.community/) |
-
+<a href="https://www.youtube.com/watch?v=vRvGQr54z38" target="_blank">Drink to get drunk</a>

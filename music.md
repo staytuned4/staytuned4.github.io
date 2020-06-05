@@ -1,5 +1,6 @@
 ---
 layout: default
+tags: [, ]
 ---
 # Lost in love
 <div align="center">

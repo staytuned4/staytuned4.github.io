@@ -1,7 +1,6 @@
 ---
 layout: default
-tags: [Drink to get drunk
-, Sia, different gear, ]
+tags: [Drink to get drunk, Sia, different gear]
 ---
 # Drink to get drunk
 

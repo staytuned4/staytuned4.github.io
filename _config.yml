@@ -1,4 +1,4 @@
-title: staytuned.one
+title: staytuned4.github.io
 description: Posts Reminder Ubuntu
 show_downloads: true
 google_analytics:
@@ -8,7 +8,7 @@ plugins:
  - jekyll-seo-tag
 
 github_username: staytuned4
-email: sebb@tutanota.de
+email: staytuned4@tutanota.de
 
 paginate: 7
 paginate_path: "/blog/:num/"

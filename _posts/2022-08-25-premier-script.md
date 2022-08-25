@@ -1,9 +1,9 @@
-#Écrire mon premier script et le lancer
+# Écrire mon premier script et le lancer
 
 Script: Contient texte ASCII, créer à partir d'un éditeur de texte (qui lit et écrit texte ASCII).
 Exemple éditeur de texte: Vi, Vim, Emacs, nano, Gedit, Kwrite.
 
-Ex de scripte:
+Ex de script:
 
 (---)
 #!/bin/bash

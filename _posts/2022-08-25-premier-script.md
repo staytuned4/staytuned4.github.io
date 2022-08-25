@@ -27,3 +27,14 @@ chmod 755 hello_world
 755: Nous donne la lecture, ecriture, exécution. Lecture, exécution aux autres.
 
 {% include tips.html content="700: Pour rendre le script priver." %}
+
+Lancer le sript:
+```
+./hello_world
+```
+path (chemin): lorssque l'on tape le nom d'une commande, le system ne cherche pas dans l'ensemble de l'ordinateur pour savoir ou le programme se trouve (ce serait trop long) mais seulement dans une liste de fichiers ou les fichiers exécutable (programmes) sont stockés. La liste de ces fichiers est appalé "path".
+Pour voir la liste:
+```
+echo $PATH
+```
+Si il ne trouve pas le progranne, il affiche "not found".

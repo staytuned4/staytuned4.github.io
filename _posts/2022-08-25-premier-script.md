@@ -1,3 +1,7 @@
+---
+layout: post
+tags: [script, débutant]
+---
 # Écrire mon premier script et le lancer
 
 Script: Contient texte ASCII, créer à partir d'un éditeur de texte (qui lit et écrit texte ASCII).

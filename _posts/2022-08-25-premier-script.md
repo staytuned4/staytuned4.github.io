@@ -37,16 +37,16 @@ Pour voir la liste:
 ```
 echo $PATH
 ```
-La recherche se fera dans cette liste de fichier lorqu'une commande est entrée (sans qu'un chemin specifique ne soit donné.
+La recherche se fera dans cette liste de fichier lorqu'une commande est entrée (si aucun chemin specifique n'est donné).
 Si il ne trouve pas le progranne, il affiche "not found".
 
 Pour ajouter un fichier au "path" (à la liste de fichier):
 ```
 export PATH=$PATH:nomdunouveaufichier
 ```
-Le mieux est d'inclure la commande dans le fichier .bash_profile afin qu'il soit générer automatiquement à chaque log in.
+Le mieux est d'inclure la commande dans le fichier .bash_profile afin qu'il soit généré automatiquement à chaque log in.
 
-La plupart des distribution Linux encourage chaques utilisateurs à avoir un fichier pour les programmes qu'ils utilisent. Ce fhichier est appelé "bin".
+La plupart des distribution Linux encourage chaques utilisateurs à avoir un fichier "bin"pour les programmes qu'ils utilisent.
 S'il n'existe pas, il peut être créer avec:
 ```
 mkdir ~/bin

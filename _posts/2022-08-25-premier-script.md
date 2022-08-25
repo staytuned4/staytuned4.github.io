@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [script, débutant, wright script, permission, path]
+tags: [script, débutant, write script, permission, path]
 ---
 # Écrire mon premier script et le lancer
 

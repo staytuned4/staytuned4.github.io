@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [script, débutant]
+tags: [script, débutant, wright script, permission, path]
 ---
 # Écrire mon premier script et le lancer
 
@@ -32,9 +32,29 @@ Lancer le sript:
 ```
 ./hello_world
 ```
-path (chemin): lorssque l'on tape le nom d'une commande, le system ne cherche pas dans l'ensemble de l'ordinateur pour savoir ou le programme se trouve (ce serait trop long) mais seulement dans une liste de fichiers ou les fichiers exécutable (programmes) sont stockés. La liste de ces fichiers est appalé "path".
+path (chemin): lorsque l'on tape le nom d'une commande, le system ne cherche pas dans l'ensemble de l'ordinateur pour savoir ou le programme se trouve (ce serait trop long) mais seulement dans une liste de fichiers ou les fichiers exécutable (programmes) sont stockés. La liste de ces fichiers est appelé "path".
 Pour voir la liste:
 ```
 echo $PATH
 ```
+La recherche se fera dans cette liste de fichier lorqu'une commande est entrée (sans qu'un chemin specifique ne soit donné.
 Si il ne trouve pas le progranne, il affiche "not found".
+
+Pour ajouter un fichier au "path" (à la liste de fichier):
+```
+export PATH=$PATH:nomdunouveaufichier
+```
+Le mieux est d'inclure la commande dans le fichier .bash_profile afin qu'il soit générer automatiquement à chaque log in.
+
+La plupart des distribution Linux encourage chaques utilisateurs à avoir un fichier pour les programmes qu'ils utilisent. Ce fhichier est appelé "bin".
+S'il n'existe pas, il peut être créer avec:
+```
+mkdir ~/bin
+```
+Si on mets notre script dans le fichier "bin", alors la commande
+```
+hello_world
+```
+suffit à lancer le sript.
+
+Il faut ouvrir une nouvelle session terminal, avec Ubuntu et les distribution basé sur Debian, avant que le nouveau fichier "bin" ne soit reconnu.

@@ -4,11 +4,11 @@ Script: Contient texte ASCII, créer à partir d'un éditeur de texte (qui lit e
 Exemple éditeur de texte: Vi, Vim, Emacs, nano, Gedit, Kwrite.
 
 Ex de script:
----
+```
 #!/bin/bash
 # My first script
 echo "Hello world"
----
+```
 
 Enregistrer le script sous: hello_world
 
@@ -16,7 +16,7 @@ Enregistrer le script sous: hello_world
 2. Commentaire (ce qui suit # est ignorer par bash) utilisé par les programmeurs pour expliquer le code.
 3. echo (commande) imprime son argument sur l'écran.
 
-# Donné au shell les permissions pour exécuter le script
+# Donner au shell les permissions pour exécuter le script
 
 chmod (commande)
 chmod 755 hello_world

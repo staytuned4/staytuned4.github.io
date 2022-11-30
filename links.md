@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+# Openshot
+[Openshot install](https://github.com/OpenShot/libopenshot/wiki/Linux-Build-Instructions)
 # Links
 [https://r3bl.me](https://r3bl.me)
 [email icon jekkyll site](https://r3bl.blog/en/simple-social-media-links-jekyll/)
